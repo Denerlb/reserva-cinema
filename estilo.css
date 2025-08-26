@@ -128,6 +128,7 @@ justify-content: center;
 background-image: radial-gradient(circle, #BC6FF1, #281754);
 scale: 0.8;
 cursor: pointer;
+transition: 0.4s;
 }
 
 .corredor{
@@ -192,3 +193,4 @@ bottom: 0;
   color: #BC6FF1;
   padding: 10px;
 }
+
